@@ -63,7 +63,7 @@ Most links (if not all) are from [The Emulation Development Discord Server](http
 ## Current task
 
   * Learning how to make an emulator.
-  * Researching/gathering information on GameBoy's.
+  * Researching/gathering information on GameBoy's. (Partial)
 
 ## Goal
 
