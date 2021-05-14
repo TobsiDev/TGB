@@ -98,6 +98,7 @@ Most links (if not all) are from [The Emulation Development Discord Server](http
 
 ### "Plan"
 * [X]   ~~Committed test project.~~
+* [X]   ~~Get a window on screen.~~
 * [ ]   Learning how to make an emulator.
 * [ ]   Start researching/gathering information on GameBoy's.
 * [ ]   Working prototype.
